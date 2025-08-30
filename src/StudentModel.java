@@ -1,5 +1,5 @@
 class Auto{
     public static void main(String[] args) {
-        System.out.println("Hola mundo, parte del colaborador");
+        System.out.println("Se verifico que no hay diferencias en el repositorio");
     }
 }
